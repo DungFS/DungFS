@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Việt Dũng</h1>
 
-<!--
-**DungFS/DungFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Automation & Control Engineering student at <b>HUST (Hanoi University of Science and Technology)</b><br>
+💻 Embedded Systems | UAV Flight Control | IoT | PX4 Firmware | C/C++ | Python<br>
+📍 Based in Vietnam
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I'm currently working on a **custom PX4-based flight controller (STM32H743)**  
+- 🌱 Learning **AI for Embedded Systems & Biomedical Signal Processing**  
+- 🛠️ Passionate about **Hardware Design, Control Systems, and Real-Time OS (NuttX)**  
+- ✍️ I also share life lessons & reflections on [YouTube](https://www.youtube.com/@dungvn.z)
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.youtube.com/@dungvn.z"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:dungvn.z@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/DungFS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+> “Keep building, keep learning, keep improving.”
